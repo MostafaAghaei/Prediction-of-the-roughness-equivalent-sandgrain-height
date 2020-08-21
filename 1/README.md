@@ -7,3 +7,4 @@ Please refer to our paper [Aghaei Jouybari, M. Yuan, J. Brereton, G.J. and Muril
 `Surface_features.csv` also contains the true k<sub>s</sub> values to estimate the prediction error. Put k<sub>s</sub>=0 if it is not known a priori.
 
 #### Folder Cal_stat
+Please consult with this if you do not have the geometrical parameters of the surface as in tabulated in `Surface_features.csv` and intend to extract them.
