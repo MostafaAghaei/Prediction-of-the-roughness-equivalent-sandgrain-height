@@ -3,7 +3,7 @@
 ## Description
 This repository is prepared to predict the roughness equivalent sandgrain height, k<sub>s</sub>, using Machine Learning (ML) techniques. 
 Deep Neural Network (DNN) and Gaussian Process Regression (GPR) are employed to predict k<sub>s</sub> as a functon of roughness geometrical parameters.
-For more details on the methods, please refer to [Aghaei Jouybari, M. Yuan, J. Brereton G.J. Murillo, M. 2019 arXiv preprint](https://arxiv.org/abs/2002.01515).
+For more details on the methods, please refer to [Aghaei Jouybari, M. Yuan, J. Brereton, G.J. and Murillo, M.S. (2019) arXiv preprint](https://arxiv.org/abs/2002.01515).
 
 #### Folder 1 
 Please consulte with this folder if you are intersted to use the already trained verion of ML networks and predict k<sub>s</sub> for your surface.
