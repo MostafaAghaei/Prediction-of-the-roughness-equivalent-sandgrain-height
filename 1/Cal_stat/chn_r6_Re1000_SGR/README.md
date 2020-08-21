@@ -10,7 +10,7 @@ loop i=1,ni
      x(i),z(k),hei(i,k)
   end
 end
-```Matlab
+```
 
 where, `x`, `z` and `hei` are, respectively, the streamwise coordinate, the spanwise coordinate and roughness height.
 
