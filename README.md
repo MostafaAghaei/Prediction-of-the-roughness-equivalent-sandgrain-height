@@ -11,7 +11,7 @@ Please consulte with this folder if you are intersted to use the already trained
 Please consulte with this folder if you are intersted to train your own version of ML networks. This folder contains some helper codes that can receive arbitrary geometrical parameters and train DNN and GPR networks to predict k<sub>s</sub>. 
 
 #### Folder 3 
-Please consulte with this folder if you are intersted in our database, but and want to use it for any desired application of yours!
+Please consulte with this folder if you are intersted in our database, but want to use it for any desired application of yours!
 
 #### Please condult with README.md in each sub-folder.
 
