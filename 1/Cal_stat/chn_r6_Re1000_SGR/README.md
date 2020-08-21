@@ -14,6 +14,6 @@ end
 
 where, `x`, `z` and `hei` are, respectively, the streamwise coordinate, the spanwise coordinate and roughness height.
 
-<b>ks.txt</b> contains the true value of k<sub>s</sub> (to be used in error analysis). Put 0 if not known a priori.
+<b>`ks.txt`</b> contains the true value of k<sub>s</sub> (to be used in error analysis). Put 0 if not known a priori.
 
 <b>`Surface.png`</b> shows the height distribution and is produced by `../Stat_Plot.m`.
