@@ -8,4 +8,4 @@ the equivalent sand-grain height in rough-wall turbulent flows. arXiv preprint](
 
 Please consult with folder <b>1</b> in the parent directory if you intend to compute these parameters.
 
-These are some helper codes and train ML networks based on the parameters specified in `Surface_features.csv`. They can be modified to predict k<sub>s</sub> as a function of any arbitrary geometrical parameters.
+These are helper codes that train ML networks based on the parameters specified in `Surface_features.csv`. They can be modified to predict k<sub>s</sub> as a function of any arbitrary geometrical parameters.
