@@ -1,6 +1,6 @@
 # Description
-This folder contains the surface height distribution for 46 roughness topographies. Each folder includes four files -- <b>`grd_res.txt`</b>, 
-<b>`Surface.txt`</b>, <b>`ks.txt`</b> and <b>`Surface.png`</b>.
+This folder contains the surface height distribution for 46 roughness topographies. Each folder includes four files -- `grd_res.txt`, 
+`Surface.txt`, `ks.txt` and `Surface.png`.
 
 <b>`grd_res.txt`</b> contains grid resoultion in the streamwise (n<sub>i</sub>) and spanwise (n<sub>k</sub>) directions. The grid should be uniform in both directions. In `grd_res.txt` the first row is n<sub>i</sub> and the second row is n<sub>k</sub>.
 
