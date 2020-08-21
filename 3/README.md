@@ -1,6 +1,5 @@
 # Description
-Use `Stat_Plot.m` to compute the geometrical parameters of your surface. The output will be stored in `Surface_features.csv`.
 
-The input shall be stored in a folder having the same name as `case_name` in `Stat_Plot.m`.
+The databse are stored in `Database` folder. It contains 46 roughness topographies and their equivalent sandgrain height. The details of simulations and roughness features are explained extensively in our paper.
 
-Case `chn_r6_Re1000_SGR` is provided as an example here. Please consult with this folder as for description of the input format.
+It is recommended to consider surfaces with k<sub>s</sub><sup>+</sup>>50 
