@@ -1,0 +1,25 @@
+License
+
+Copyright (c) 2020 Mostafa Aghaei Jouybari
+
+This package is prepared to predict the roughness equivalent sandgrain height. This package is named "PESH".
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this package and associated documentation files (the "PESH"), to deal
+in the PESH without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, and/or sublicense the PESH, and to permit persons to whom the PESH is
+furnished to do so, subject to the following conditions:
+
+The PESH is free and should not be sold.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the PESH.
+
+THE PESH IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE PESH OR THE USE OR OTHER DEALINGS IN THE
+PESH.
+
