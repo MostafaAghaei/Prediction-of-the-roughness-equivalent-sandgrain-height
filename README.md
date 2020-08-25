@@ -1,4 +1,4 @@
-# Prediction-of-the-equivalent-sandgrain-height
+# Prediction-of-the-roughness-equivalent-sandgrain-height
 
 ## Description
 This repository is prepared to predict the roughness equivalent sandgrain height, k<sub>s</sub>, using Machine Learning (ML) techniques. 
