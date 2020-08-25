@@ -1,6 +1,6 @@
-# Prediction-of-the-roughness-equivalent-sandgrain-height
+## Prediction-of-the-roughness-equivalent-sandgrain-height
 
-## Description
+### Description
 This repository is prepared to predict the roughness equivalent sandgrain height, k<sub>s</sub>, using Machine Learning (ML) techniques. 
 
 Deep Neural Network (DNN) and Gaussian Process Regression (GPR) are employed to predict k<sub>s</sub> as a functon of roughness geometrical parameters.
