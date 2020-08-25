@@ -1,4 +1,4 @@
-# Description
+## Description
 Use `trainDNN.ipynb` and `trainGPR.ipynb` to train DNN and GPR networks for prediction of k<sub>s</sub>, using `jupyter-notebook` application.
 
 The inputs are surface geometrical parameters and true k<sub>s</sub>, which are written in `Surface_features.csv`. This file is loaded by `.ipynb` codes.
