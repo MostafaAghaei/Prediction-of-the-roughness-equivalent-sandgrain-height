@@ -17,4 +17,6 @@ where, `x`, `z` and `hei` are, respectively, the streamwise coordinate, the span
 
 <b>`ks.txt`</b> contains the true value of k<sub>s</sub>.
 
+<b>`d.txt`</b> contains the true value of the roughness displacement height.
+
 <b>`Surface.png`</b> shows the height distribution and is produced by `../Stat_Plot.m`.
