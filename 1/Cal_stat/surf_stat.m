@@ -41,6 +41,8 @@ Lt=1;
 q=1;
 
 while (xleft<Lx)
+zleft=zc(1);
+
     while (zleft<Lz)
         
         if(Lx-xleft<Lt)
