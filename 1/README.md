@@ -8,7 +8,7 @@ Please refer to our paper [Aghaei Jouybari, M. Yuan, J. Brereton, G.J. and Muril
 
 In this file, surfaces with 
 
-     lable DNS are from Aghaei Jouybari et al. (JFM, 2020, "Data-driven prediction of the equivalent sand-grain height in rough-wall turbulent flows".)
+   lable DNS are from Aghaei Jouybari et al. (JFM, 2020, "Data-driven prediction of the equivalent sand-grain height in rough-wall turbulent flows".)
 
 #### Folder Cal_stat
 Please consult with this folder if you do not have the geometrical parameters of the surface as tabulated in `Surface_features.csv`, and you intend to extract them.
