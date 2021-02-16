@@ -5,8 +5,8 @@ The inputs are surface geometrical parameters and true k<sub>s</sub>, which are 
 
 In the present file, surfaces with lable
 
-- DNS are from Aghaei Jouybari et al. (JFM, 2020, "Data-driven prediction of the equivalent sand-grain height in rough-wall turbulent flows").
-- EXP are from Flack et al. (2016, 2018, 2019) (See Aghaei Jouybari et al. 2020 for the details).
+- DNS are from Aghaei Jouybari et al. (JFM, 2021, "Data-driven prediction of the equivalent sand-grain height in rough-wall turbulent flows").
+- EXP are from Flack et al. (2016, 2018, 2019) (See Aghaei Jouybari et al. 2021 for the details).
 - DNSF are from Forooghi et al. (JFE, 2017, "Toward a universal roughness correlation").
 
 
